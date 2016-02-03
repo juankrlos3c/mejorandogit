@@ -1,0 +1,11 @@
+commit 271e17986350831611c11a7477a911306dc66fd3
+Author: Juan Carlos Lores <juankrloslores@hotmail.com>
+Date:   Tue Feb 2 18:34:08 2016 -0500
+
+    Se cambio la imagen de gitub
+
+commit e86ce9eebc01219c59a5699d1f9d8a6558b78de3
+Author: Juan Carlos Lores <juankrloslores@hotmail.com>
+Date:   Tue Feb 2 18:24:45 2016 -0500
+
+    Archivos base proyecto GIT
