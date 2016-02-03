@@ -51,7 +51,7 @@ h1
 
 h3
 {
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-size: 13px;
   line-height: 32px;
   border-bottom: 1px #eee solid;
